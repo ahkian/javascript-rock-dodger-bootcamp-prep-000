@@ -122,7 +122,7 @@ function moveDodger(e) {
 }
 
 function moveDodgerLeft() {
-  DODGER
+  var leftNumber = DODGER.style.
   // implement me!
   /**
    * This function should move DODGER to the left
