@@ -123,7 +123,8 @@ function moveDodger(e) {
 
 function moveDodgerLeft() {
   var leftNumber = DODGER.style.left.replace('px', '')
-  var left = parseInt()
+  var left = parseInt(leftNumber, 10)
+  
   // implement me!
   /**
    * This function should move DODGER to the left
