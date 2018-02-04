@@ -122,7 +122,8 @@ function moveDodger(e) {
 }
 
 function moveDodgerLeft() {
-  var leftNumber = DODGER.style.left.replace
+  var leftNumber = DODGER.style.left.replace('px', '')
+  var 
   // implement me!
   /**
    * This function should move DODGER to the left
