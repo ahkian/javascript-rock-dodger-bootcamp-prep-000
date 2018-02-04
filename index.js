@@ -122,6 +122,7 @@ function moveDodger(e) {
 }
 
 function moveDodgerLeft() {
+  DODGER
   // implement me!
   /**
    * This function should move DODGER to the left
